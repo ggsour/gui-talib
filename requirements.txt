@@ -1,0 +1,5 @@
+TA-Lib
+pandas
+numpy
+matplotlib
+ttkbootstrap
