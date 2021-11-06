@@ -4,10 +4,10 @@ Unofficial Simple tool/frontend for [TA-lib ](https://github.com/mrjbq7/ta-lib) 
 for financial technical analysis.
 
 # Dependencies
-TA-Lib
-pandas
-numpy
-matplotlib
+TA-Lib,
+pandas,
+numpy,
+matplotlib,
 ttkbootstrap
 TA-lib
 First install the TA-lib binary for your OS following the [installation Guide](https://mrjbq7.github.io/ta-lib/install.html)
