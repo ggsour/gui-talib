@@ -12,9 +12,9 @@ ttkbootstrap
 TA-lib
 First install the TA-lib binary for your OS following the [installation Guide](https://mrjbq7.github.io/ta-lib/install.html)
 
-Then nstall de the packages from requirements.txt with.(replace $path with yours)  
+Then install de the packages from requirements.txt with.(replace $path with yours)  
 ```
-pip install -r /$path/requirements.txt
+pip3 install -r /$path/requirements.txt
 
 ```
 # Usage
