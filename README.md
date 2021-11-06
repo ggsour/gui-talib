@@ -1,6 +1,7 @@
 # gui-Talib
 
 Unofficial Simple tool/frontend for [TA-lib ](https://github.com/mrjbq7/ta-lib) made with python3 and [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap/tree/0.5).
+for financial technical analysis.
 
 # Dependencies
 TA-Lib
@@ -8,14 +9,16 @@ pandas
 numpy
 matplotlib
 ttkbootstrap
+TA-lib
+First install the TA-lib binary for your OS following the [installation Guide](https://mrjbq7.github.io/ta-lib/install.html)
 
-Install de the packages from requirements.txt with.(replace $path with yours)  
+Then nstall de the packages from requirements.txt with.(replace $path with yours)  
 ```
 pip install -r /$path/requirements.txt
 
 ```
 # Usage
-
+For more information about Functions and parameters please refer to [Ta-lib documentation](https://mrjbq7.github.io/ta-lib/doc_index.html)
 1) launch with
 ```
 ~/python3 gui-talib.py
